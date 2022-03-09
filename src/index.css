@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  font-family: 'Play', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: black !important;
+  /* overflow: scroll !important; */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+*::-webkit-scrollbar {
+	width: 4px;
+	background-color: transparent;
+}
+
+*::-webkit-scrollbar:horizontal {
+	height: 4px;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  border-radius: 4px;
+  background: #ffffff20;
+  /* min-height: 30px; */
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: #6B76A180;
+}
+
+*::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
+input::-ms-clear, input::-ms-reveal {
+  display: none;
+ }
+
+ .cMFuDJ {
+  display: block !important;
+  max-width: 250px !important;
+  background-color: #1f1414 !important;
+}
+
+.eCZoDi {
+  display: none;
+}
+
+.hKhOIm {
+  flex-direction: row !important;
+  justify-content: left !important;
+  background-color: #0c0a0a !important;
+}
+
+.gHoDBx {
+  width: auto !important;
+  margin-top: 0 !important;
+  margin-left: 20px;
+  color: #fff !important
+}
+
+.uYscM {
+  margin-left: 0 !important;
+  left: 0 !important;
+}
